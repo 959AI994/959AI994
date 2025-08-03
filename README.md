@@ -4,8 +4,6 @@
   <img src="myself（2）.jpg" alt="Jingxin Wang - Full Stack Developer | AI Enthusiast" style="width: 100%; max-width: 100%; height: auto;">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=959AI994&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **959AI994/959AI994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
