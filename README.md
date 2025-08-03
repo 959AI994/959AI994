@@ -1,7 +1,7 @@
 <!-- ## Hi there, I'm Jingxin Wang 👋 -->
 
 <p align="center">
-  <img src="myself（3）.jpg" alt="Jingxin Wang - PhD Student | AI Enthusiast" style="width: 100%; max-width: 100%; height: auto;">
+  <img src="myself（5）.jpg" alt="Jingxin Wang - PhD Student | AI Enthusiast" style="width: 100%; max-width: 100%; height: auto;">
 </p>
 
 <!--
