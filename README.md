@@ -1,6 +1,8 @@
 ## Hi there, I'm Jingxin Wang 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=959AI994&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="myself（2）.jpg" alt="Jingxin Wang - Full Stack Developer | AI Enthusiast" width="600">
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=959AI994&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
