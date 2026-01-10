@@ -25,12 +25,6 @@
 
 🔗 [📄 Paper](#) | [💻 Code](#)
 
-### 🔧 **AI4EDA Data Processing Toolkit**
-> A comprehensive open-source toolkit for EDA (Electronic Design Automation) data processing and format conversion, specifically designed for AI4EDA applications. Provides essential utilities for handling circuit datasets, benchmark conversions, and preprocessing pipelines to accelerate AI-driven chip design research.
-
-🔗 [💻 Code](https://github.com/959AI994/AI4EDA-OpenABC-Data-Toolkit)
-
-
 ### 🔬 **MLGSC: Multi-level Graph Subspace Contrastive Learning for Hyperspectral Image Clustering**
 > **[IJCNN 2024]** Multi-level Graph Subspace Contrastive Learning for Hyperspectral Image Clustering - A novel contrastive learning framework that exploits multi-level graph structures to enhance hyperspectral image analysis and clustering performance.
 
@@ -41,6 +35,11 @@
 > A curated collection of papers and open-source codes on hyperspectral image clustering, serving as a comprehensive resource for researchers and practitioners in remote sensing and computer vision (65 ⭐).
 
 🔗 [💻 Repository](https://github.com/GuanRX/Awesome-Hyperspectral-Image-Clustering)
+
+### 🔧 **AI4EDA Data Processing Toolkit**
+> A comprehensive open-source toolkit for EDA (Electronic Design Automation) data processing and format conversion, specifically designed for AI4EDA applications. Provides essential utilities for handling circuit datasets, benchmark conversions, and preprocessing pipelines to accelerate AI-driven chip design research.
+
+🔗 [💻 Code](https://github.com/959AI994/AI4EDA-OpenABC-Data-Toolkit)
 
 </div>
 
