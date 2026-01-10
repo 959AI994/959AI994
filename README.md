@@ -64,7 +64,7 @@
 🔗 [💻 Code](https://github.com/959AI994/Open-source-video-player-Android-app)
 
 
-### 💬 **A chat system based on React**
+### 💬 **A Chat System based on React**
 > A WeChat-like web application client built with React, featuring real-time messaging, user-friendly interface, and seamless chat experiences with separate client and service architectures.
 
 🔗 [💻 Client](https://github.com/959AI994/react-hiui-chat) | [💻 Service](https://github.com/959AI994/react-hiui-chat-service)
