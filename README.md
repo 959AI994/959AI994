@@ -15,7 +15,7 @@
 
 🔗 [📄 Paper](#) | [💻 Code](https://github.com/959AI994/GTAC)
 
-### 🔬 **MixGate: Alignment Unlocks Complementarity**
+### 🔬 **MixGate: A Framework for Multiview Circuit Representation Learning**
 > **[Under Review]** Alignment Unlocks Complementarity: A Framework for Multiview Circuit Representation Learning that leverages multimodal alignment techniques to enhance circuit understanding and optimization through complementary perspectives.
 
 🔗 [📄 Paper](https://arxiv.org/abs/2509.20968) | [💻 Code](https://github.com/959AI994/MixGate-ICLR)
@@ -64,7 +64,7 @@
 🔗 [💻 Code](https://github.com/959AI994/Open-source-video-player-Android-app)
 
 
-### 💬 **react-hiui-chat**
+### 💬 **A chat system based on React**
 > A WeChat-like web application client built with React, featuring real-time messaging, user-friendly interface, and seamless chat experiences with separate client and service architectures.
 
 🔗 [💻 Client](https://github.com/959AI994/react-hiui-chat) | [💻 Service](https://github.com/959AI994/react-hiui-chat-service)
