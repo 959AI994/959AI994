@@ -15,28 +15,23 @@
 
 🔗 [📄 Paper](#) | [💻 Code](https://github.com/959AI994/GTAC)
 
-<br>
-
 ### 🔬 **MixGate: Alignment Unlocks Complementarity**
 > **[Under Review]** Alignment Unlocks Complementarity: A Framework for Multiview Circuit Representation Learning that leverages multimodal alignment techniques to enhance circuit understanding and optimization through complementary perspectives.
 
 🔗 [📄 Paper](https://arxiv.org/abs/2509.20968) | [💻 Code](https://github.com/959AI994/MixGate-ICLR)
 
-<br>
 
 ### 🔧 **AI4EDA Data Processing Toolkit**
 > A comprehensive open-source toolkit for EDA (Electronic Design Automation) data processing and format conversion, specifically designed for AI4EDA applications. Provides essential utilities for handling circuit datasets, benchmark conversions, and preprocessing pipelines to accelerate AI-driven chip design research.
 
 🔗 [💻 Code](https://github.com/959AI994/AI4EDA-OpenABC-Data-Toolkit)
 
-<br>
 
 ### 🔬 **MLGSC: Multi-level Graph Subspace Contrastive Learning**
 > **[IJCNN 2024]** Multi-level Graph Subspace Contrastive Learning for Hyperspectral Image Clustering - A novel contrastive learning framework that exploits multi-level graph structures to enhance hyperspectral image analysis and clustering performance.
 
 🔗 [📄 Paper](https://ieeexplore.ieee.org/abstract/document/10650148) | [💻 Code](https://github.com/959AI994/MLGSC)
 
-<br>
 
 ### 📖 **Awesome-Hyperspectral-Image-Clustering**
 > A curated collection of papers and open-source codes on hyperspectral image clustering, serving as a comprehensive resource for researchers and practitioners in remote sensing and computer vision.
@@ -56,28 +51,24 @@
 
 🔗 [💻 Code](https://github.com/cug-se-pdd/pdd)
 
-<br>
 
 ### 🚗 **Shared Parking Software**
 > A comprehensive WeChat mini-program and web application for shared parking solutions, built with modern web technologies including Vue.js and Element UI, featuring real-time map integration and intelligent parking slot management.
 
 🔗 [💻 Code](https://github.com/959AI994/Shared-Parking-Software-WeChat-App-and-Web)
 
-<br>
 
 ### 📱 **Open-source Video Player (Android)**
 > A beautiful Tencent Video-like Android application based on Kotlin + Jetpack core components + coroutines + componentization architecture, demonstrating modern Android development best practices with smooth video streaming capabilities.
 
 🔗 [💻 Code](https://github.com/959AI994/Open-source-video-player-Android-app)
 
-<br>
 
 ### 💬 **react-hiui-chat**
 > A WeChat-like web application client built with React, featuring real-time messaging, user-friendly interface, and seamless chat experiences with separate client and service architectures.
 
 🔗 [💻 Client](https://github.com/959AI994/react-hiui-chat) | [💻 Service](https://github.com/959AI994/react-hiui-chat-service)
 
-<br>
 
 ### 🚚 **Transport Management System**
 > A comprehensive cargo transportation management system designed to streamline logistics operations, tracking, and resource allocation for efficient fleet management and delivery optimization.
