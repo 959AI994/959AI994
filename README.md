@@ -20,6 +20,10 @@
 
 🔗 [📄 Paper](https://arxiv.org/abs/2509.20968) | [💻 Code](https://github.com/959AI994/MixGate-ICLR)
 
+### 🔬 **UniCircuit: Multimodal Circuit Representation Learning with Anchor-Free Alignment**
+> **[DATE 2026]** UniCircuit is an anchorless multimodal circuit representation learning framework that aligns circuit representations using SVD to achieve robust QoR prediction and cross-modal semantic modeling.
+
+🔗 [📄 Paper](#) | [💻 Code](#)
 
 ### 🔧 **AI4EDA Data Processing Toolkit**
 > A comprehensive open-source toolkit for EDA (Electronic Design Automation) data processing and format conversion, specifically designed for AI4EDA applications. Provides essential utilities for handling circuit datasets, benchmark conversions, and preprocessing pipelines to accelerate AI-driven chip design research.
