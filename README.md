@@ -6,7 +6,7 @@
 
 ---
 
-## 📚 Research Publications & Projects
+## 📚 My Research Publications & Projects
 
 <div align="left">
 
@@ -18,7 +18,7 @@
 <br>
 
 ### 🔬 **MixGate: Alignment Unlocks Complementarity**
-> **[Under Review]** A Framework for Multiview Circuit Representation Learning that leverages multimodal alignment techniques to enhance circuit understanding and optimization through complementary perspectives.
+> **[Under Review]** Alignment Unlocks Complementarity: A Framework for Multiview Circuit Representation Learning that leverages multimodal alignment techniques to enhance circuit understanding and optimization through complementary perspectives.
 
 🔗 [📄 Paper](https://arxiv.org/abs/2509.20968) | [💻 Code](https://github.com/959AI994/MixGate-ICLR)
 
@@ -47,9 +47,16 @@
 
 ---
 
-## 💼 Open-Source Projects
+## 💼 My Open-Source Projects
 
 <div align="left">
+
+### 🎫 **PDD - Campus Ticketing System (Piao Duo Duo)**
+> A comprehensive campus ticketing platform designed for university events and activities, providing seamless ticket booking, management, and distribution services. Built to streamline event organization and enhance student engagement with an intuitive user experience.
+
+🔗 [💻 Code](https://github.com/cug-se-pdd/pdd)
+
+<br>
 
 ### 🚗 **Shared Parking Software**
 > A comprehensive WeChat mini-program and web application for shared parking solutions, built with modern web technologies including Vue.js and Element UI, featuring real-time map integration and intelligent parking slot management.
