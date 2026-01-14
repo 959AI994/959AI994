@@ -31,12 +31,12 @@
 🔗 [📄 Paper](https://ieeexplore.ieee.org/abstract/document/10650148) | [💻 Code](https://github.com/959AI994/MLGSC)
 
 
-### 📖 **Awesome Hyperspectral Image Clustering(65 stars⭐)**
-> A curated collection of papers and open-source codes on hyperspectral image clustering, serving as a comprehensive resource for researchers and practitioners in remote sensing and computer vision (65 ⭐).
+### 📖 **Awesome Hyperspectral Image Clustering(66 stars⭐)**
+> A curated collection of papers and open-source codes on hyperspectral image clustering, serving as a comprehensive resource for researchers and practitioners in remote sensing and computer vision (66 ⭐).
 
 🔗 [💻 Repository](https://github.com/GuanRX/Awesome-Hyperspectral-Image-Clustering)
 
-### 🔧 **AI4EDA Data Processing Toolkit**
+### 🔧 **AI4EDA Data Processing Toolkit(5 stars⭐)**
 > A comprehensive open-source toolkit for EDA (Electronic Design Automation) data processing and format conversion, specifically designed for AI4EDA applications. Provides essential utilities for handling circuit datasets, benchmark conversions, and preprocessing pipelines to accelerate AI-driven chip design research.
 
 🔗 [💻 Code](https://github.com/959AI994/AI4EDA-OpenABC-Data-Toolkit)
