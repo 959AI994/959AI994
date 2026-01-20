@@ -31,8 +31,8 @@
 🔗 [📄 Paper](https://ieeexplore.ieee.org/abstract/document/10650148) | [💻 Code](https://github.com/959AI994/MLGSC)
 
 
-### 📖 **Awesome Hyperspectral Image Clustering(66 stars⭐)**
-> A curated collection of papers and open-source codes on hyperspectral image clustering, serving as a comprehensive resource for researchers and practitioners in remote sensing and computer vision (66 ⭐).
+### 📖 **Awesome Hyperspectral Image Clustering(68 stars⭐)**
+> A curated collection of papers and open-source codes on hyperspectral image clustering, serving as a comprehensive resource for researchers and practitioners in remote sensing and computer vision.
 
 🔗 [💻 Repository](https://github.com/GuanRX/Awesome-Hyperspectral-Image-Clustering)
 
