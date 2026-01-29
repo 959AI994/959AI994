@@ -10,7 +10,7 @@
 
 <div align="left">
 
-### 📖 **Awesome Hyperspectral Image Clustering(69 stars⭐)**
+### 📖 **Awesome Hyperspectral Image Clustering(70 stars⭐)**
 > A curated collection of papers and open-source codes on hyperspectral image clustering, serving as a comprehensive resource for researchers and practitioners in remote sensing and computer vision.
 
 🔗 [💻 Repository](https://github.com/GuanRX/Awesome-Hyperspectral-Image-Clustering)
