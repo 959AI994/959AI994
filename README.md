@@ -24,7 +24,7 @@
 ### 🔬 **GTAC: A Generative Transformer for Approximate Circuits**
 > **[Under Review]** A novel generative transformer architecture designed to revolutionize approximate circuit design through advanced machine learning techniques, enabling efficient hardware optimization with controllable quality-power tradeoffs.
 
-🔗 [📄 Paper](#) | [💻 Code](https://github.com/959AI994/GTAC)
+🔗 [📄 Paper](https://arxiv.org/abs/2601.19906) | [💻 Code](https://github.com/959AI994/GTAC)
 
 ### 🔬 **MixGate: A Framework for Multiview Circuit Representation Learning**
 > **[Under Review]** Alignment Unlocks Complementarity: A Framework for Multiview Circuit Representation Learning that leverages multimodal alignment techniques to enhance circuit understanding and optimization through complementary perspectives.
