@@ -15,7 +15,7 @@
 
 🔗 [💻 Code](https://github.com/959AI994/AI4EDA-OpenABC-Data-Toolkit)
 
-### 📖 **Awesome Hyperspectral Image Clustering(70 stars⭐)**
+### 📖 **Awesome Hyperspectral Image Clustering(71 stars⭐)**
 > A curated collection of papers and open-source codes on hyperspectral image clustering, serving as a comprehensive resource for researchers and practitioners in remote sensing and computer vision.
 
 🔗 [💻 Repository](https://github.com/GuanRX/Awesome-Hyperspectral-Image-Clustering)
