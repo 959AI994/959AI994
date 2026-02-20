@@ -10,12 +10,12 @@
 
 <div align="left">
 
-### 🔧 **AI4EDA Data Processing Toolkit(8 stars⭐)**
+### 🔧 **AI4EDA Data Processing Toolkit(7 stars⭐)**
 > [🌟One-step AIG/Verilog to PyG conversion for ML training🌟] A comprehensive open-source toolkit for EDA (Electronic Design Automation) data processing and format conversion, specifically designed for AI4EDA applications. Provides essential utilities for handling circuit datasets, benchmark conversions, and preprocessing pipelines to accelerate AI-driven chip design research.
 
 🔗 [💻 Code](https://github.com/959AI994/AI4EDA-OpenABC-Data-Toolkit)
 
-### 📖 **Awesome Hyperspectral Image Clustering(71 stars⭐)**
+### 📖 **Awesome Hyperspectral Image Clustering(73 stars⭐)**
 > A curated collection of papers and open-source codes on hyperspectral image clustering, serving as a comprehensive resource for researchers and practitioners in remote sensing and computer vision.
 
 🔗 [💻 Repository](https://github.com/GuanRX/Awesome-Hyperspectral-Image-Clustering)
