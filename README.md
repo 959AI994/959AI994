@@ -10,7 +10,7 @@
 
 <div align="left">
 
-### 🔧 **AI4EDA Data Processing Toolkit(7 stars⭐)**
+### 🔧 **AI4EDA Data Processing Toolkit(8 stars⭐)**
 > [🌟One-step AIG/Verilog to PyG conversion for ML training🌟] A comprehensive open-source toolkit for EDA (Electronic Design Automation) data processing and format conversion, specifically designed for AI4EDA applications. Provides essential utilities for handling circuit datasets, benchmark conversions, and preprocessing pipelines to accelerate AI-driven chip design research.
 
 🔗 [💻 Code](https://github.com/959AI994/AI4EDA-OpenABC-Data-Toolkit)
