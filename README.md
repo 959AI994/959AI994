@@ -15,13 +15,13 @@
 
 🔗 [💻 Code](https://github.com/959AI994/AI4EDA-OpenABC-Data-Toolkit)
 
-### 📖 **Awesome Hyperspectral Image Clustering(76 stars⭐)**
+### 📖 **Awesome Hyperspectral Image Clustering(77 stars⭐)**
 > A curated collection of papers and open-source codes on hyperspectral image clustering, serving as a comprehensive resource for researchers and practitioners in remote sensing and computer vision.
 
 🔗 [💻 Repository](https://github.com/GuanRX/Awesome-Hyperspectral-Image-Clustering)
 
 
-### 🔬 **GTAC: A Generative Transformer for Approximate Circuits**
+### 🔬 **GTAC: A Generative Transformer for Approximate Circuits(3 stars⭐)**
 > **[Under Review]** A novel generative transformer architecture designed to revolutionize approximate circuit design through advanced machine learning techniques, enabling efficient hardware optimization with controllable quality-power tradeoffs.
 
 🔗 [📄 Paper](https://arxiv.org/abs/2601.19906) | [💻 Code](https://github.com/959AI994/GTAC)
