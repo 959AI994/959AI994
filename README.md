@@ -29,7 +29,7 @@
 ### 🔬 **MixGate: A Framework for Multiview Circuit Representation Learning**
 > **[Under Review]** Alignment Unlocks Complementarity: A Framework for Multiview Circuit Representation Learning that leverages multimodal alignment techniques to enhance circuit understanding and optimization through complementary perspectives.
 
-🔗 [📄 Paper](https://arxiv.org/abs/2509.20968) | [💻 Code](https://github.com/959AI994/MixGate-ICLR)
+🔗 [📄 Paper](https://arxiv.org/abs/2509.20968) | [💻 Code](https://github.com/959AI994/MixGate)
 
 ### 🔬 **UniCircuit: Multimodal Circuit Representation Learning with Anchor-Free Alignment**
 > **[DATE 2026]** UniCircuit is an anchorless multimodal circuit representation learning framework that aligns circuit representations using SVD to achieve robust QoR prediction and cross-modal semantic modeling.
