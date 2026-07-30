@@ -20,28 +20,28 @@
 
 🔗 [💻 Repository](https://github.com/GuanRX/Awesome-Hyperspectral-Image-Clustering)
 
-### ⚙️ **GUALO: A Generalizable Uncertainty-Aware AI Agent for Logic Optimization**
-> **[ICCAD 2026]** A generalizable uncertainty-aware AI agent that aligns circuit and synthesis-recipe representations, quantifies QoR prediction uncertainty, and guides design space exploration toward reliable, high-quality logic optimization.
+### 🎉 **GUALO: A Generalizable Uncertainty-Aware AI Agent for Logic Optimization**
+> **[ICCAD 2026 · Accepted · First Author]** A generalizable uncertainty-aware AI agent that aligns circuit and synthesis-recipe representations, quantifies QoR prediction uncertainty, and guides design space exploration toward reliable, high-quality logic optimization.
 
 🔗 [📄 Paper](PAPER_LINK) | [💻 Code](CODE_LINK)
 
-### 🔬 **MixGate: A Framework for Multiview Circuit Representation Learning**
-> **[ICCAD 2026]** Alignment Unlocks Complementarity: A Framework for Multiview Circuit Representation Learning that leverages multimodal alignment techniques to enhance circuit understanding and optimization through complementary perspectives.
+### 🎉 **MixGate: A Framework for Multiview Circuit Representation Learning**
+> **[ICCAD 2026 · Accepted · Co-First Author]** Alignment Unlocks Complementarity: A Framework for Multiview Circuit Representation Learning that leverages multimodal alignment techniques to enhance circuit understanding and optimization through complementary perspectives.
 
 🔗 [📄 Paper](https://arxiv.org/abs/2509.20968) | [💻 Code](https://github.com/959AI994/MixGate)
 
-### 🔬 **UniCircuit: Multimodal Circuit Representation Learning with Anchor-Free Alignment**
-> **[DATE 2026]** UniCircuit is an anchorless multimodal circuit representation learning framework that aligns circuit representations using SVD to achieve robust QoR prediction and cross-modal semantic modeling.
+### 🎉 **UniCircuit: Multimodal Circuit Representation Learning with Anchor-Free Alignment**
+> **[DATE 2026 · Published · First Author]** UniCircuit is an anchorless multimodal circuit representation learning framework that aligns circuit representations using SVD to achieve robust QoR prediction and cross-modal semantic modeling.
 
 🔗 [📄 Paper](https://ieeexplore.ieee.org/abstract/document/11539448/) | [💻 Code](#)
 
-### 🔬 **MLGSC: Multi-level Graph Subspace Contrastive Learning for Hyperspectral Image Clustering**
-> **[IJCNN 2024]** Multi-level Graph Subspace Contrastive Learning for Hyperspectral Image Clustering - A novel contrastive learning framework that exploits multi-level graph structures to enhance hyperspectral image analysis and clustering performance.
+### 🎉 **MLGSC: Multi-level Graph Subspace Contrastive Learning for Hyperspectral Image Clustering**
+> **[IJCNN 2024 · Published · First Author]** Multi-level Graph Subspace Contrastive Learning for Hyperspectral Image Clustering - A novel contrastive learning framework that exploits multi-level graph structures to enhance hyperspectral image analysis and clustering performance.
 
 🔗 [📄 Paper](https://ieeexplore.ieee.org/abstract/document/10650148) | [💻 Code](https://github.com/959AI994/MLGSC)
 
 ### 🔬 **GTAC: A Generative Transformer for Approximate Circuits(3 stars⭐)**
-> **[Under Review]** A novel generative transformer architecture designed to revolutionize approximate circuit design through advanced machine learning techniques, enabling efficient hardware optimization with controllable quality-power tradeoffs.
+> **[Under Review · First Author]** A novel generative transformer architecture designed to revolutionize approximate circuit design through advanced machine learning techniques, enabling efficient hardware optimization with controllable quality-power tradeoffs.
 
 🔗 [📄 Paper](https://arxiv.org/abs/2601.19906) | [💻 Code](https://github.com/959AI994/GTAC)
 
