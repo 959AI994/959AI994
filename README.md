@@ -40,13 +40,19 @@
 
 🔗 [📄 Paper](https://ieeexplore.ieee.org/abstract/document/10650148) | [💻 Code](https://github.com/959AI994/MLGSC)
 
+### 🔬 **CktEvo: Repository-Level RTL Code Benchmark for Design Evolution**
+> **[Preprint · Co-First Author]** The first repository-level RTL benchmark and closed-loop LLM evolution framework for function-preserving PPA optimization, enabling autonomous cross-file RTL refinement through EDA feedback and formal verification.
+
+🔗 [📄 Paper](https://arxiv.org/abs/2603.08718) | [💻 Code](https://github.com/cure-lab/cktevo)
+
 ### 🔬 **GTAC: A Generative Transformer for Approximate Circuits(3 stars⭐)**
 > **[Under Review · First Author]** A novel generative transformer architecture designed to revolutionize approximate circuit design through advanced machine learning techniques, enabling efficient hardware optimization with controllable quality-power tradeoffs.
 
 🔗 [📄 Paper](https://arxiv.org/abs/2601.19906) | [💻 Code](https://github.com/959AI994/GTAC)
 
 
-</div>
+
+<!-- </div>
 
 ---
 
@@ -85,4 +91,4 @@
 
 </div>
 
----
+--- -->
