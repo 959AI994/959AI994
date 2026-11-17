@@ -28,7 +28,7 @@
 ### 🎉 **GUALO: A Generalizable Uncertainty-Aware AI Agent for Logic Optimization**
 > **[ICCAD 2026 · Accepted · First Author]** A generalizable uncertainty-aware AI agent that aligns circuit and synthesis-recipe representations, quantifies QoR prediction uncertainty, and guides design space exploration toward reliable, high-quality logic optimization.
 
-🔗 [📄 Paper](PAPER_LINK) | [💻 Code](CODE_LINK)
+🔗 [📄 Paper](PAPER_LINK) | [💻 Code]((https://github.com/SJTU-ECTL/GUALO))
 
 ### 🎉 **MixGate: A Framework for Multiview Circuit Representation Learning**
 > **[ICCAD 2026 · Accepted · Co-First Author]** Alignment Unlocks Complementarity: A Framework for Multiview Circuit Representation Learning that leverages multimodal alignment techniques to enhance circuit understanding and optimization through complementary perspectives.
