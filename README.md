@@ -15,6 +15,12 @@
 
 🔗 [💻 Code](https://github.com/959AI994/AI4EDA-OpenABC-Data-Toolkit)
 
+### 🔧 **CktClaw — Multi-Agent AI Terminal for Chip Design**
+
+> **🌟 Run multi-stage EDA workflows from natural-language prompts 🌟** CktClaw is an open-source AI terminal that routes chip design tasks to specialized agents and coordinates tools like Yosys, Verilator, and OpenSTA. It covers 14 design domains, including RTL design, verification, logic synthesis, timing analysis, and physical design.
+
+🔗 [💻 Code](https://github.com/959AI994/cktclaw)
+
 ### 📖 **Awesome Hyperspectral Image Clustering(86 stars⭐)**
 > A curated collection of papers and open-source codes on hyperspectral image clustering, serving as a comprehensive resource for researchers and practitioners in remote sensing and computer vision.
 
