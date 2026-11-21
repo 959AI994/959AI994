@@ -10,12 +10,12 @@
 
 <div align="left">
 
-### 🔧 **AI4EDA Data Processing Toolkit(10 stars⭐)**
+### 🔧 **AI4EDA Data Processing Toolkit(11 stars⭐)**
 > [🌟One-step AIG/Verilog to PyG conversion for ML training🌟] A comprehensive open-source toolkit for EDA (Electronic Design Automation) data processing and format conversion, specifically designed for AI4EDA applications. Provides essential utilities for handling circuit datasets, benchmark conversions, and preprocessing pipelines to accelerate AI-driven chip design research.
 
 🔗 [💻 Code](https://github.com/959AI994/AI4EDA-OpenABC-Data-Toolkit)
 
-### 🔧 **CktClaw — An Open-Source Multi-Agent Framework for Chip Design and EDA Automation**
+### 🔧 **CktClaw — An Open-Source Multi-Agent Framework for Chip Design and EDA Automation(4 stars⭐)**
 
 > **🌟 Run multi-stage EDA workflows from natural-language prompts 🌟** CktClaw is an open-source AI terminal that routes chip design tasks to specialized agents and coordinates tools like Yosys, Verilator, and OpenSTA. It covers 14 design domains, including RTL design, verification, logic synthesis, timing analysis, and physical design.
 
@@ -26,7 +26,7 @@
 
 🔗 [💻 Repository](https://github.com/GuanRX/Awesome-Hyperspectral-Image-Clustering)
 
-###  🎉 **GTAC: A Generative Transformer for Approximate Circuits(4 stars⭐)**
+###  🎉 **GTAC: A Generative Transformer for Approximate Circuits(5 stars⭐)**
 > **[CSTIC 2027 · Accepted · First Author]** A novel generative transformer architecture designed to revolutionize approximate circuit design through advanced machine learning techniques, enabling efficient hardware optimization with controllable quality-power tradeoffs.
 
 🔗 [📄 Paper](https://arxiv.org/abs/2601.19906) | [💻 Code](https://github.com/959AI994/GTAC)
@@ -36,7 +36,7 @@
 
 🔗 [📄 Paper](PAPER_LINK) | [💻 Code](https://github.com/SJTU-ECTL/GUALO)
 
-### 🎉 **MixGate: A Framework for Multiview Circuit Representation Learning(4 stars⭐)**
+### 🎉 **MixGate: A Framework for Multiview Circuit Representation Learning(5 stars⭐)**
 > **[ICCAD 2026 · Accepted · Co-First Author]** Alignment Unlocks Complementarity: A Framework for Multiview Circuit Representation Learning that leverages multimodal alignment techniques to enhance circuit understanding and optimization through complementary perspectives.
 
 🔗 [📄 Paper](https://arxiv.org/abs/2509.20968) | [💻 Code](https://github.com/959AI994/MixGate)
