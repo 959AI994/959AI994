@@ -27,7 +27,7 @@
 🔗 [💻 Repository](https://github.com/GuanRX/Awesome-Hyperspectral-Image-Clustering)
 
 ###  🎉 **GTAC: A Generative Transformer for Approximate Circuits(5 stars⭐)**
-> **[CSTIC 2027 · Accepted · First Author]** A novel generative transformer architecture designed to revolutionize approximate circuit design through advanced machine learning techniques, enabling efficient hardware optimization with controllable quality-power tradeoffs.
+> **[CSTIC 2027 · Accepted · First Author · Oral]** A novel generative transformer architecture designed to revolutionize approximate circuit design through advanced machine learning techniques, enabling efficient hardware optimization with controllable quality-power tradeoffs.
 
 🔗 [📄 Paper](https://arxiv.org/abs/2601.19906) | [💻 Code](https://github.com/959AI994/GTAC)
 
