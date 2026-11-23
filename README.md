@@ -15,7 +15,7 @@
 
 🔗 [💻 Code](https://github.com/959AI994/AI4EDA-OpenABC-Data-Toolkit)
 
-### 🔧 **CktClaw — An Open-Source Multi-Agent Framework for Chip Design and EDA Automation(16 stars⭐)**
+### 🔧 **CktClaw — An Open-Source Multi-Agent Framework for Chip Design and EDA Automation(17 stars⭐)**
 
 > **🌟 Run multi-stage EDA workflows from natural-language prompts 🌟** CktClaw is an open-source AI-powered EDA agent framework for autonomous chip design, supporting RTL generation, verification, logic synthesis, timing analysis, and multi-agent workflows.
 
