@@ -21,7 +21,7 @@
 
 🔗 [💻 Code](https://github.com/959AI994/cktclaw)
 
-### 📖 **Awesome Hyperspectral Image Clustering(87 stars⭐)**
+### 📖 **Awesome Hyperspectral Image Clustering(88 stars⭐)**
 > A curated collection of papers and open-source codes on hyperspectral image clustering, serving as a comprehensive resource for researchers and practitioners in remote sensing and computer vision.
 
 🔗 [💻 Repository](https://github.com/GuanRX/Awesome-Hyperspectral-Image-Clustering)
