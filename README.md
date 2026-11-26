@@ -46,17 +46,10 @@
 
 🔗 [📄 Paper](https://ieeexplore.ieee.org/abstract/document/11539448/) | [💻 Code](#)
 
-### 🎉 **MLGSC: Multi-level Graph Subspace Contrastive Learning for Hyperspectral Image Clustering**
-> **[IJCNN 2024 · Published · First Author]** Multi-level Graph Subspace Contrastive Learning for Hyperspectral Image Clustering - A novel contrastive learning framework that exploits multi-level graph structures to enhance hyperspectral image analysis and clustering performance.
-
-🔗 [📄 Paper](https://ieeexplore.ieee.org/abstract/document/10650148) | [💻 Code](https://github.com/959AI994/MLGSC)
-
 ### 🔬 **CktEvo: Repository-Level RTL Code Benchmark for Design Evolution**
 > **[Preprint · Co-First Author]** The first repository-level RTL benchmark and closed-loop LLM evolution framework for function-preserving PPA optimization, enabling autonomous cross-file RTL refinement through EDA feedback and formal verification.
 
 🔗 [📄 Paper](https://arxiv.org/abs/2603.08718) | [💻 Code](https://github.com/cure-lab/cktevo)
-
-
 
 <!-- </div>
 
@@ -65,12 +58,6 @@
 ## 💼 My Open-Source Projects
 
 <div align="left">
-
-### 🎫 **PDD - Campus Ticketing System (Piao Duo Duo)**
-> A comprehensive campus ticketing platform designed for university events and activities, providing seamless ticket booking, management, and distribution services. Built to streamline event organization and enhance student engagement with an intuitive user experience.
-
-🔗 [💻 Code](https://github.com/cug-se-pdd/pdd)
-
 
 ### 🚗 **Shared Parking Software**
 > A comprehensive WeChat mini-program and web application for shared parking solutions, built with modern web technologies including Vue.js and Element UI, featuring real-time map integration and intelligent parking slot management.
@@ -88,12 +75,6 @@
 > A WeChat-like web application client built with React, featuring real-time messaging, user-friendly interface, and seamless chat experiences with separate client and service architectures.
 
 🔗 [💻 Client](https://github.com/959AI994/react-hiui-chat) | [💻 Service](https://github.com/959AI994/react-hiui-chat-service)
-
-
-### 🚚 **Transport Management System**
-> A comprehensive cargo transportation management system designed to streamline logistics operations, tracking, and resource allocation for efficient fleet management and delivery optimization.
-
-🔗 [💻 Code](https://github.com/959AI994/Software-Transport-Project)
 
 </div>
 
